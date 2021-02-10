@@ -1,3 +1,3 @@
-import './styles.css';
-import './js/theme-switcher';
+import './style.css';
+import './js/theme-switch';
 import './js/template';
